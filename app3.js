@@ -1,0 +1,22 @@
+let money = 500+500;
+let price = 99.99;
+let message = "Happy New Year";
+let alias = "Happy";
+let checkName = false;
+let checkProduct = true;
+let age = "13";
+
+console.log(money);
+console.log(typeof(money));
+console.log(price);
+console.log(typeof(price));
+console.log(message);
+console.log(typeof(message));
+console.log(alias);
+console.log(typeof(alias));
+console.log(checkName);
+console.log(typeof(checkName));
+console.log(checkProduct);
+console.log(typeof(checkProduct));
+console.log(age);
+console.log(typeof(age));
